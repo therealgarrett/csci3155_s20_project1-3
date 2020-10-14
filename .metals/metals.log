@@ -1,0 +1,21 @@
+INFO  time: initialize in 0.17s
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: /Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/src/main/scala/edu/colorado/csci3155/project1/Expr.scala
+WARN  no build target: /Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/project/build.properties
+INFO  time: initialize in 0.15s
+WARN  no build target: /Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/src/main/scala/edu/colorado/csci3155/project1/Expr.scala
+INFO  time: initialize in 0.15s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/src/main/scala/edu/colorado/csci3155/project1/Expr.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.19s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: /Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/src/main/scala/edu/colorado/csci3155/project1/Expr.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.17s
+WARN  no build target: /Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala
+WARN  code navigation does not work for the file '/Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala' because it doesn't belong to a build target.
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala
+WARN  code navigation does not work for the file '/Users/garrett/Desktop/CS3155/csci3155_s20_project1-3/src/main/scala/edu/colorado/csci3155/project1/StackMachineEmulator.scala' because it doesn't belong to a build target.
+WARN  no build target: 
